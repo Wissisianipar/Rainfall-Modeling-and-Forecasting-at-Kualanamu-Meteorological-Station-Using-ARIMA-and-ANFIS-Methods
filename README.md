@@ -1,4 +1,5 @@
-# PEMODELAN-DAN-PERAMALAN-CURAH-HUJAN-DI-STASIUN-METEOROLOGI-KUALANAMU-MENGGUNAKAN-METODE-ANFIS
+# Rainfall Modeling and Forecasting at Kualanamu Meteorological Station
+Using ARIMA and ANFIS Methods
 My undergraduate thesis
 
 # Description
