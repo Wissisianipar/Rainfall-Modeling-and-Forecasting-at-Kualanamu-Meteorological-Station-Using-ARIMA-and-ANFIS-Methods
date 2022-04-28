@@ -5,15 +5,6 @@ clc; clear; close all; warning of all;
 data=xlsread('Book1',1,'E5:E108');
 
 curahhujanmm = data;
-
-
-
-
-%Menghitung sMAPE
-SMAPE = 2*mean(abs(y-yin_hasil)./(abs(y)+abs(yin_hasil)))*100;
- 
-SMAPE =(sum(abs(y-yin_hasil)./((abs(y))+ abs(yin_hasil))/2))*(n)^(-1);
-
  
 %FCM INPUT LAG 1 JK 2 DAN 3
 
