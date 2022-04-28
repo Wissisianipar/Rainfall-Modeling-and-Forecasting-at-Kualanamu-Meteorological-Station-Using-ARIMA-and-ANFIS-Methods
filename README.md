@@ -1,5 +1,5 @@
-# Rainfall Modeling and Forecasting at Kualanamu Meteorological Station
-Using ARIMA and ANFIS Methods
+# Rainfall Modeling and Forecasting at Kualanamu Meteorological Station Using ARIMA and ANFIS Methods
+
 My undergraduate thesis
 
 # Description
